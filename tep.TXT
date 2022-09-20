@@ -1,0 +1,12 @@
+Thong tin cua hinh thang A
+Day lon a = 5
+Day nho b = 8
+Chieu cao h = 6
+Thong tin cua hinh thang B
+Day lon a = 21
+Day nho b = 54
+Chieu cao h = 6
+Thong tin cua hinh thang C
+Day lon a = 26
+Day nho b = 62
+Chieu cao h = 12
